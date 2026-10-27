@@ -1,0 +1,44 @@
+{
+  "title": "ClickUp Partner & Verified Consultant B2B Lead Enricher",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "searchQuery": {
+      "title": "Keyword / Industry / Location Filter",
+      "type": "string",
+      "description": "Optional keyword to filter ClickUp partners by name, service (e.g., Automation, Onboarding, Custom Workspaces), industry, or country.",
+      "editor": "textfield",
+      "default": ""
+    },
+    "partnerTierFilter": {
+      "title": "Partner Tier Filter",
+      "type": "string",
+      "description": "Filter by ClickUp partner tier badge.",
+      "enum": ["all", "Verified Consultant", "Solution Partner", "Premier Partner"],
+      "default": "all"
+    },
+    "maxItems": {
+      "title": "Max Partners to Scrape & Enrich",
+      "type": "integer",
+      "description": "Maximum number of enriched ClickUp Partner B2B leads to extract.",
+      "default": 25,
+      "minimum": 1,
+      "maximum": 2000
+    },
+    "maxPages": {
+      "title": "Max Directory Pages to Scan",
+      "type": "integer",
+      "description": "Maximum number of ClickUp Partner Directory pages (clickup.com/partners?page=N) to crawl.",
+      "default": 5,
+      "minimum": 1,
+      "maximum": 50
+    },
+    "enrichWebsiteContacts": {
+      "title": "Enrich Verified Emails, Phones & LinkedIn from Agency Websites",
+      "type": "boolean",
+      "description": "Visit each agency's external website and /contact page to extract verified business emails, phone numbers, and LinkedIn company URLs.",
+      "default": true
+    }
+  },
+  "required": []
+}

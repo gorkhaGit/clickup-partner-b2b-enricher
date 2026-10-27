@@ -1,0 +1,167 @@
+[
+  {
+    "partnerName": "Sharpflow Consulting",
+    "slug": "sharpflow-consulting",
+    "partnerTier": "Solution Partner",
+    "headquarters": "Australia",
+    "website": "https://sharpflowconsulting.com/",
+    "primaryEmail": "",
+    "emails": [],
+    "phones": [],
+    "linkedinUrl": "https://www.linkedin.com/company/sharpflow-consulting/",
+    "twitterUrl": "",
+    "contactPageUrl": "https://sharpflowconsulting.com/book-a-discovery-call",
+    "services": [],
+    "industries": [],
+    "locations": [
+      "Australia",
+      "Canada",
+      "Mexico",
+      "Spain",
+      "United Kingdom"
+    ],
+    "languages": [
+      "Brazilian Portuguese",
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "summary": "We’re a British-led ClickUp only consultancy based in Mexico, working with teams around the world that need more than tidy dashboards. \n\nWe build operational systems that create structure, improve accountability, and support scalable growth.",
+    "profileUrl": "https://clickup.com/partners/partner/sharpflow-consulting",
+    "scrapedAt": "2026-10-27T03:48:12.093055+00:00"
+  },
+  {
+    "partnerName": "L5.ai",
+    "slug": "l5ai",
+    "partnerTier": "Solution Partner | Global Partner",
+    "headquarters": "India",
+    "website": "https://www.l5.ai/",
+    "primaryEmail": "info@l5.ai",
+    "emails": [
+      "info@l5.ai"
+    ],
+    "phones": [],
+    "linkedinUrl": "https://www.linkedin.com/company/l5ai",
+    "twitterUrl": "",
+    "contactPageUrl": "https://l5.ai/about-us",
+    "services": [
+      "Go Live in 5 Days!",
+      "ClickUp Onboarding",
+      "Strategic Services (Cloud Cover)",
+      "Migrations, Integrations, Training & Ongoing Services",
+      "Digital Transformation"
+    ],
+    "industries": [],
+    "locations": [
+      "India",
+      "United States"
+    ],
+    "languages": [
+      "Brazilian Portuguese",
+      "English",
+      "French",
+      "Hindi",
+      "Tamil"
+    ],
+    "summary": "L5.ai, ClickUp's only global partner, specializes in AI-driven workflows to optimize processes, enhance decision-making, and drive growth. We deliver tailored solutions, including automation and custom workflows.",
+    "profileUrl": "https://clickup.com/partners/partner/l5ai",
+    "scrapedAt": "2026-10-27T03:48:14.984533+00:00"
+  },
+  {
+    "partnerName": "ZenPilot",
+    "slug": "zenpilot",
+    "partnerTier": "Solution Partner",
+    "headquarters": "Brazil",
+    "website": "https://zenpilot.com",
+    "primaryEmail": "",
+    "emails": [],
+    "phones": [],
+    "linkedinUrl": "https://www.linkedin.com/in/graymackenzie/",
+    "twitterUrl": "",
+    "contactPageUrl": "https://zenpilot.com/about",
+    "services": [
+      "How LegalZoom's Creative Team Standardized and Scaled",
+      "Read more"
+    ],
+    "industries": [],
+    "locations": [
+      "Brazil",
+      "Canada",
+      "Romania",
+      "United States"
+    ],
+    "languages": [
+      "Brazilian Portuguese",
+      "English"
+    ],
+    "summary": "As ClickUp's first-ever partner, we've helped over 3,100 agencies, marketing teams, and service providers streamline their operations. Highest-rated and fully guaranteed.",
+    "profileUrl": "https://clickup.com/partners/partner/zenpilot",
+    "scrapedAt": "2026-10-27T03:48:15.137985+00:00"
+  },
+  {
+    "partnerName": "360VIER GmbH",
+    "slug": "360vier-gmbh",
+    "partnerTier": "Solution Partner",
+    "headquarters": "Germany",
+    "website": "https://360vier.de/",
+    "primaryEmail": "beratung@360vier.de",
+    "emails": [
+      "beratung@360vier.de"
+    ],
+    "phones": [],
+    "linkedinUrl": "",
+    "twitterUrl": "",
+    "contactPageUrl": "",
+    "services": [],
+    "industries": [],
+    "locations": [
+      "Germany"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "summary": "360VIER brings 14 years of digital experience to ClickUp — delivering complex migrations, scalable setups, API integrations, and helping teams get the most out of their tools.",
+    "profileUrl": "https://clickup.com/partners/partner/360vier-gmbh",
+    "scrapedAt": "2026-10-27T03:48:17.441771+00:00"
+  },
+  {
+    "partnerName": "Preflex Solutions Pvt. Ltd",
+    "slug": "preflex-solutions-pvt-ltd",
+    "partnerTier": "Solution Partner",
+    "headquarters": "India",
+    "website": "https://www.preflexsol.com",
+    "primaryEmail": "sales@preflexsol.com",
+    "emails": [
+      "sales@preflexsol.com"
+    ],
+    "phones": [
+      "+918049787917",
+      "+919741004028"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/company/preflex-solutions-private-limited/",
+    "twitterUrl": "",
+    "contactPageUrl": "",
+    "services": [],
+    "industries": [],
+    "locations": [
+      "India"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "summary": "As ClickUp’s largest Solutions Partner, Preflex Solutions transforms complex operations into scalable digital workspaces. We specialize in custom-automated workflows and AI Super Agents to deploy a high-performance digital workforce.",
+    "profileUrl": "https://clickup.com/partners/partner/preflex-solutions-pvt-ltd",
+    "scrapedAt": "2026-10-27T03:48:15.107273+00:00"
+  },
+  {
+    "id": "0RTHJhRS02tF8LCGe",
+    "name": null,
+    "accessed_at": "2026-10-27 03:48:18.483595+00:00",
+    "created_at": "2026-10-27 03:48:18.474301+00:00",
+    "modified_at": "2026-10-27 03:48:18.483595+00:00",
+    "item_count": 5
+  }
+]

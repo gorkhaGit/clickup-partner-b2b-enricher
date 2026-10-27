@@ -1,0 +1,14 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "Enriched ClickUp Partner & Consultant B2B Leads Output",
+  "description": "Enriched ClickUp Solution Partners and Verified Consultants stored in the default dataset.",
+  "type": "object",
+  "properties": {
+    "overview": {
+      "type": "string",
+      "title": "Enriched ClickUp Partner B2B Leads",
+      "description": "View all enriched ClickUp Partner & Verified Consultant leads in a structured table.",
+      "template": "{{links.apiDefaultDatasetUrl}}/items?view=overview"
+    }
+  }
+}

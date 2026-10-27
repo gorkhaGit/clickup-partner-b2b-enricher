@@ -1,0 +1,51 @@
+{
+  "actorSpecification": 1,
+  "fields": {
+    "type": "object",
+    "properties": {
+      "partnerName": { "type": "string", "title": "Partner / Agency Name" },
+      "slug": { "type": "string", "title": "Directory Slug" },
+      "partnerTier": { "type": "string", "title": "Partner Tier" },
+      "headquarters": { "type": "string", "title": "Location / Region" },
+      "website": { "type": "string", "title": "Clean Website" },
+      "primaryEmail": { "type": "string", "title": "Primary Verified Email" },
+      "emails": { "type": "array", "title": "Verified Emails", "items": { "type": "string" } },
+      "phones": { "type": "array", "title": "Phone Numbers", "items": { "type": "string" } },
+      "linkedinUrl": { "type": "string", "title": "LinkedIn URL" },
+      "twitterUrl": { "type": "string", "title": "X / Twitter URL" },
+      "contactPageUrl": { "type": "string", "title": "Contact Page URL" },
+      "services": { "type": "array", "title": "Services Offered", "items": { "type": "string" } },
+      "industries": { "type": "array", "title": "Industries", "items": { "type": "string" } },
+      "locations": { "type": "array", "title": "Locations", "items": { "type": "string" } },
+      "languages": { "type": "array", "title": "Languages", "items": { "type": "string" } },
+      "summary": { "type": "string", "title": "Agency Summary" },
+      "profileUrl": { "type": "string", "title": "ClickUp Profile URL" },
+      "scrapedAt": { "type": "string", "title": "Scraped At (UTC)" }
+    }
+  },
+  "views": {
+    "overview": {
+      "title": "Enriched ClickUp Partner B2B Leads",
+      "transformation": {
+        "fields": [
+          "partnerName",
+          "partnerTier",
+          "headquarters",
+          "website",
+          "primaryEmail",
+          "emails",
+          "phones",
+          "linkedinUrl",
+          "services",
+          "industries",
+          "locations",
+          "profileUrl"
+        ]
+      },
+      "display": {
+        "component": "table",
+        "properties": {}
+      }
+    }
+  }
+}

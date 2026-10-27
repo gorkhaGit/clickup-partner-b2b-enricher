@@ -1,0 +1,22 @@
+{
+  "actorSpecification": 1,
+  "name": "clickup-partner-b2b-enricher",
+  "title": "ClickUp Partner & Verified Consultant B2B Lead Enricher",
+  "description": "Scrape the official ClickUp Partner Directory (clickup.com/partners) and enrich Verified Consultants & Solution Partners with verified B2B emails, phone numbers, LinkedIn URLs, services, industries, and locations.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "meta": {
+    "templateId": "python-start"
+  },
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "dockerfile": "../Dockerfile",
+  "defaultRunOptions": {
+    "build": "latest",
+    "timeoutSecs": 3600,
+    "memoryMbytes": 256
+  },
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  }
+}
